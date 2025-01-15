@@ -56,8 +56,8 @@ ul {
     align-items: center;
     width: 1080px;
     color: #F9FAF8;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 .left {
@@ -73,4 +73,15 @@ ul {
     font-size: 18px;
     color: #E5E7EB;
     font-weight: 200;
+}
+
+button {
+    background-color: #3882F6;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border: 0;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 10px;
 }
